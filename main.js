@@ -1,3 +1,4 @@
+// Final review before submission
 const fs = require("fs");
 function timeToSeconds(t){
   let [time,period] = t.trim().split(" ");
